@@ -1,5 +1,7 @@
 import React, {useState} from 'react';
 import API from './utils/API';
+import './App.css';
+
 
 const App = () => {
 
