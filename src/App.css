@@ -1,0 +1,25 @@
+
+.joke-area {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.btn {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+} 
+
+
+.App-link {
+  color: #61dafb;
+}
+
