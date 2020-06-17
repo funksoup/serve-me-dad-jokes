@@ -25,7 +25,11 @@ The application will be invoked with the following command:
 npm start
 ```
 
-Running `npm start` will execute the web app and render the page. Jokes are fetched using the <a href="https://rapidapi.com/KegenGuyll/api/dad-jokes/">Dad Jokes API</a> from RapidAPI. The API request is in the `API.js` file in the `utils` folder under the `src` folder. Replace the `your-key` value of `'x-rapidapi-key'` with your own RapidAPI key.
+Running `npm start` will execute the web app and render the page. Jokes are fetched using the <a href="https://rapidapi.com/KegenGuyll/api/dad-jokes/">Dad Jokes API</a> from RapidAPI. 
+
+The API request is in the `API.js` file in the `utils` folder under the `src` folder. Create a `.env` file in the root folder of the app and include the following, where `your-key` should be replaced with your own RapidAPI key:
+
+`REACT_APP_RAPIDAPI_KEY = 'your-key'`
 
 Rendering of joke setup and punchlines is in the `App.js` file in the `src` folder, along with accompanying css and index files.
 
