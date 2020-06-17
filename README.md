@@ -36,7 +36,7 @@ Rendering of joke setup and punchlines is in the `App.js` file in the `src` fold
 
 This gif demonstrates the application's functionality:
 
-<img src = "/public/images/serve-me-dad-joke.gif" width="600">
+<img src = "/public/images/dadjokes-demo.gif" width="600">
 
 
 ## License
