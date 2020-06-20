@@ -33,6 +33,11 @@ const App = () => {
       <div className="joke-area"><button className="btn btn-secondary" onClick={handleJokePunchline}>Alright, I'll bite</button></div>
       <div className="joke-area">{resultPunchline}</div>
 
+      
+      
+     
+      <div className="contrib-area">created by <a href="https://funksoup.com"> @funksoup </a> {"   |   "} <a href="https://github.com/funksoup/serve-me-dad-jokes"> Github repo</a></div>
+
     </>
     )
 };

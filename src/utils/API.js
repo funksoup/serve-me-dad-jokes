@@ -1,7 +1,5 @@
 import axios from 'axios';
-
-console.log('key:', process.env.REACT_APP_RAPIDAPI_KEY)
-
+		
 export default {
 	getData: () => 
 		axios({
