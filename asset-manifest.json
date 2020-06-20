@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/serve-me-dad-jokes/static/css/main.7e4e8778.chunk.css",
-    "main.js": "/serve-me-dad-jokes/static/js/main.7f72d8bb.chunk.js",
-    "main.js.map": "/serve-me-dad-jokes/static/js/main.7f72d8bb.chunk.js.map",
+    "main.css": "/serve-me-dad-jokes/static/css/main.b2e1f97f.chunk.css",
+    "main.js": "/serve-me-dad-jokes/static/js/main.d9279be5.chunk.js",
+    "main.js.map": "/serve-me-dad-jokes/static/js/main.d9279be5.chunk.js.map",
     "runtime-main.js": "/serve-me-dad-jokes/static/js/runtime-main.2ba12875.js",
     "runtime-main.js.map": "/serve-me-dad-jokes/static/js/runtime-main.2ba12875.js.map",
     "static/js/2.cfceb7ac.chunk.js": "/serve-me-dad-jokes/static/js/2.cfceb7ac.chunk.js",
     "static/js/2.cfceb7ac.chunk.js.map": "/serve-me-dad-jokes/static/js/2.cfceb7ac.chunk.js.map",
     "index.html": "/serve-me-dad-jokes/index.html",
-    "precache-manifest.aae2b01a81fd5ec6de0ccb7040bee14c.js": "/serve-me-dad-jokes/precache-manifest.aae2b01a81fd5ec6de0ccb7040bee14c.js",
+    "precache-manifest.969a9b9fa15bacf6cdcdecaf145f7882.js": "/serve-me-dad-jokes/precache-manifest.969a9b9fa15bacf6cdcdecaf145f7882.js",
     "service-worker.js": "/serve-me-dad-jokes/service-worker.js",
-    "static/css/main.7e4e8778.chunk.css.map": "/serve-me-dad-jokes/static/css/main.7e4e8778.chunk.css.map",
+    "static/css/main.b2e1f97f.chunk.css.map": "/serve-me-dad-jokes/static/css/main.b2e1f97f.chunk.css.map",
     "static/js/2.cfceb7ac.chunk.js.LICENSE.txt": "/serve-me-dad-jokes/static/js/2.cfceb7ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2ba12875.js",
     "static/js/2.cfceb7ac.chunk.js",
-    "static/css/main.7e4e8778.chunk.css",
-    "static/js/main.7f72d8bb.chunk.js"
+    "static/css/main.b2e1f97f.chunk.css",
+    "static/js/main.d9279be5.chunk.js"
   ]
 }
