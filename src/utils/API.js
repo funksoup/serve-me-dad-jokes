@@ -8,7 +8,7 @@ export default {
 			'headers': {
 				'content-type': 'application/json',
 				'x-rapidapi-host': 'dad-jokes.p.rapidapi.com',
-				'x-rapidapi-key': process.env.REACT_APP_RAPIDAPI_KEY,
+				'x-rapidapi-key': '83e2ffda39mshfb48b56ec2d3ee0p1c3384jsn1a0d5e951ea9',
 				'useQueryString': true
 			}
 		})
