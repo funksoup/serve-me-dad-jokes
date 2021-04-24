@@ -12,7 +12,7 @@ const App = () => {
     event.preventDefault();
     API.getData()
       .then (
-        res => setResultSetup(`${res.data.setup}`)
+        res => setResultSetup(`${res.data.body[0].setup}`)
         )
   }
 
@@ -20,7 +20,7 @@ const App = () => {
     event.preventDefault();
     API.getData()
       .then (
-        res => setResultPunchline(`${res.data.punchline}`)
+        res => setResultPunchline(`${res.data.body[0].punchline}`)
         )
   }
 
